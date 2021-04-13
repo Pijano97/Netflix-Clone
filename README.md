@@ -28,4 +28,5 @@ Next, you need to clone GIT repo
 
 ### Description of project
 
-Personal portfolio
+Netflix Clone
+https://www.netflix.com/rs/
