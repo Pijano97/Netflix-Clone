@@ -9,8 +9,8 @@
 
 ### Requirments
 
-- NodeJS (v14.15.1) - https://nodejs.org/en/
-- npm - package manager for NodeJS
+- NodeJS (v14.15.1)
+- npm (v6.14.4)
 
 ### Setup
 
