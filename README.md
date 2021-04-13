@@ -1,3 +1,5 @@
+# NetflixClone
+
 ## Table of contents:
 
 - [Requirements](#requirements)
