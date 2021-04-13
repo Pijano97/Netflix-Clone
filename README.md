@@ -22,11 +22,8 @@ Next, you need to clone GIT repo
 
 - ReactJS
 - Firebase
-- Axios
-- Git
-- VSCode
 
 ### Description of project
 
 Netflix Clone
-https://www.netflix.com/rs/
+https://www.netflix.com/
